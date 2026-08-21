@@ -10,7 +10,7 @@
 
 | 官方标准基础形象 | 核心特征规格说明 |
 |:---:|:---|
-| ![Base Logo](./00_Base_Reference.jpg) | **1. 渐变双马尾**<br>- **形状**：宽大、饱满的圆润水滴状下垂，无任何散乱发丝。<br>- **颜色**：上半部为主发色，下半部平滑渐变为粉色。<br>- **位置**：对称悬挂于头部两侧，发尾自然延伸至肩部以下。<br><br>**2. 红瞳**<br>- **形状**：绝对纯净、无高光、无睫毛的竖椭圆形。<br>- **颜色**：纯净宝石红。<br>- **位置**：位于脸颊中上部，两眼间距较宽，以营造幼态可爱感。<br><br>**3. 经典穿搭**<br>- **形状**：包裹肩部的厚实针织开衫与居中对称的胖胖领结。<br>- **颜色**：开衫为暖米白色，领结为深藏青色。<br>- **位置**：严丝合缝地占据画面下方区域。<br><br>**4. 颈部与五官细节**<br>- **嘴巴**：位于两眼下方正中央的极小的一段柔和弧线。<br>- **黑颈圈**：位于下巴正下方、衣领上方的纯黑色细窄长方形。 |
+| ![Base Logo](./assets/00_Base_Reference.jpg) | **1. 渐变双马尾**<br>- **形状**：宽大、饱满的圆润水滴状下垂，无任何散乱发丝。<br>- **颜色**：上半部为主发色，下半部平滑渐变为粉色。<br>- **位置**：对称悬挂于头部两侧，发尾自然延伸至肩部以下。<br><br>**2. 红瞳**<br>- **形状**：绝对纯净、无高光、无睫毛的竖椭圆形。<br>- **颜色**：纯净宝石红。<br>- **位置**：位于脸颊中上部，两眼间距较宽，以营造幼态可爱感。<br><br>**3. 经典穿搭**<br>- **形状**：包裹肩部的厚实针织开衫与居中对称的胖胖领结。<br>- **颜色**：开衫为暖米白色，领结为深藏青色。<br>- **位置**：严丝合缝地占据画面下方区域。<br><br>**4. 颈部与五官细节**<br>- **嘴巴**：位于两眼下方正中央的极小的一段柔和弧线。<br>- **黑颈圈**：位于下巴正下方、衣领上方的纯黑色细窄长方形。 |
 
 ---
 
@@ -42,18 +42,18 @@
 ### 基础扩展系列
 | 个人工具网站 | 个人照片网站 | 手机桌面小组件 |
 |:---:|:---:|:---:|
-| ![Tools](./01_Icon_Tools.jpg) | ![Photo](./02_Icon_Photo.jpg) | ![Widget](./03_Icon_Widget.jpg) |
+| ![Tools](./assets/01_Icon_Tools.jpg) | ![Photo](./assets/02_Icon_Photo.jpg) | ![Widget](./assets/03_Icon_Widget.jpg) |
 | **手持极简几何扳手** | **手持极简小相机** | **超大头贴特写 + 俏皮 Wink** |
 
 ### 全新应用主题系列
 | 娱乐与游戏 | 社交与聊天 | 效率与生活 |
 |:---:|:---:|:---:|
-| ![Game](./04_Icon_Game.jpg) | ![Chat](./05_Icon_Chat.jpg) | ![Coffee](./06_Icon_Coffee.jpg) |
+| ![Game](./assets/04_Icon_Game.jpg) | ![Chat](./assets/05_Icon_Chat.jpg) | ![Coffee](./assets/06_Icon_Coffee.jpg) |
 | **手持游戏手柄** | **手持气泡框** | **捧着大马克杯** |
 
 | 极客与开发 | 金融与打赏 |
 |:---:|:---:|
-| ![Dev](./07_Icon_Dev.jpg) | ![Coin](./08_Icon_Finance.jpg) |
+| ![Dev](./assets/07_Icon_Dev.jpg) | ![Coin](./assets/08_Icon_Finance.jpg) |
 | **手持代码括号** | **抱着小金币** |
 
 ---
@@ -63,7 +63,7 @@
 
 | 右下角探头放大版 |
 |:---:|
-| ![Corner](./09_Banner_CornerPeek.jpg) |
+| ![Corner](./assets/09_Banner_CornerPeek.jpg) |
 
 **构图特点**：人物彻底偏离中心，从右下方切入，放大了角色在画布中的占比（约占 65%）。左上方留出大面积的纯色负空间。
 **适用场景**：这种构图非常适合做**名片背景、网页 Banner 的右下角点缀、或者需要留白排版文字的海报插图**！
@@ -75,11 +75,11 @@
 
 | 1. 微笑 | 2. 俏皮 | 3. 开怀 | 4. 惊讶 |
 |:---:|:---:|:---:|:---:|
-| ![Smile](./10_Base_Smile.jpg) | ![Wink](./11_Base_Wink.jpg) | ![Happy](./12_Base_Happy.jpg) | ![Surprised](./13_Base_Surprised.jpg) |
+| ![Smile](./assets/10_Base_Smile.jpg) | ![Wink](./assets/11_Base_Wink.jpg) | ![Happy](./assets/12_Base_Happy.jpg) | ![Surprised](./assets/13_Base_Surprised.jpg) |
 
 | 5. 生气 | 6. 大哭 | 7. 迷糊 | |
 |:---:|:---:|:---:|:---:|
-| ![Angry](./14_Base_Angry.jpg) | ![Crying](./15_Base_Crying.jpg) | ![Dizzy](./16_Base_Dizzy.jpg) | |
+| ![Angry](./assets/14_Base_Angry.jpg) | ![Crying](./assets/15_Base_Crying.jpg) | ![Dizzy](./assets/16_Base_Dizzy.jpg) | |
 
 - **微笑**：保持红瞳椭圆不变，嘴角微微上扬的温柔弧线。
 - **俏皮**：左眼保持红瞳，右眼闭合成月牙，微张小嘴。（适合交互反馈）
