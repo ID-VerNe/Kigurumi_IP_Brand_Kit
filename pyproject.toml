@@ -1,0 +1,12 @@
+[project]
+name = "kigurumi-ip-brand-kit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "onnxruntime>=1.29.0",
+    "pillow>=12.3.0",
+    "rembg>=2.0.81",
+    "vtracer>=0.6.15",
+]
