@@ -67,6 +67,11 @@
 | ![Stargazing](./assets/25_Icon_Stargazing.jpg) | ![Telescope](./assets/26_Icon_Telescope.jpg) | ![Picbed](./assets/27_Icon_Picbed.jpg) |
 | **捧着黄色大星星** | **手持极简望远镜** | **捧着极简相纸** |
 
+| 画廊与艺术 |
+|:---:|
+| ![Gallery](./assets/29_Icon_Gallery.jpg) |
+| **手持极简调色板** |
+
 ---
 
 ## 📐 五、 非对称排版应用
